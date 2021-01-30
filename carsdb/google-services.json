@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57942368249",
+    "project_id": "carsdb-auth",
+    "storage_bucket": "carsdb-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57942368249:android:7caf05a6a57766d05ae728",
+        "android_client_info": {
+          "package_name": "me.eieikyaw.carsdb.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57942368249-b9gku5v80cti1bpripodvqehqtdr2bph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.eieikyaw.carsdb.auth",
+            "certificate_hash": "1a3d9bcbc2c6ed562d7bb141cefb2d8f1b90937b"
+          }
+        },
+        {
+          "client_id": "57942368249-de1709baqu66ggbn7g1k9felvngr3vp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFVdbq1Ah4vk2DzjygB01o_fWcgns-mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57942368249-de1709baqu66ggbn7g1k9felvngr3vp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
